@@ -1,4 +1,4 @@
-# The Suhч Books <!-- and Film's--> help section.
+# The Suhч Books <!-- and Film's--> Wiki
 ### Some background
 
 The Suhч are fictitious beings, created in [CKS1, a.k.a Chawi Mi](https://github.com/chawi-mi)'s mind, and brought to life by yours truly.
@@ -10,6 +10,7 @@ Main Characters:
 - [The Suhч Legion]
 - - [The CKS]
 - - [Battle Angel]'s
+- [The Gods]
 
 Locations:
 - [x-lab]
@@ -30,4 +31,5 @@ Other interesting events, maps, locations, etc.
 - [Map of Earth] (2067-2999)
 - [The Suhч Accords] (gdocs)
 - [An overview of the Suhч Condemn Act]
+- [The undead army]
 
