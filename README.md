@@ -7,15 +7,15 @@ The story begins in the future, but they come from the past. The Suhч can live 
 
 # Index
 Main Characters:
-- [The Suhч Legion]
-- - [The CKS]
-- - [Battle Angel]'s
-- [The Gods]
+- [The Suhч Legion](https://tallerthanshort.github.io/encyclopedia/chars/)
+- - [The CKS](https://tallerthanshort.github.io/encyclopedia/chars/#the-cks)
+- - [Battle Angel](https://tallerthanshort.github.io/encyclopedia/chars/#the-battle-angels)'s
+- [The God](https://tallerthanshort.github.io/encyclopedia/chars/#the-gods)'s
 
 Locations:
 - [x-lab]
-- [Ciudad Libre]
-- [Suhч Depo] (index)
+- [Ciudad Libre](https://tallerthanshort.github.io/encyclopedia/gps/Ciudad%20Libre/)
+- [Suhч Depo](https://tallerthanshort.github.io/encyclopedia/gps/depos/) (index)
 
 Vehicles:
 - [MU6]
@@ -29,7 +29,7 @@ Materials:
 Other interesting events, maps, locations, etc.
 - [Map of Ciudad Libre]
 - [Map of Earth] (2067-2999)
-- [The Suhч Accords] (gdocs)
+- [The Suhч Accords](https://docs.google.com/document/f/1N837W33N/?fake=very_fake) (gdocs)
 - [An overview of the Suhч Condemn Act]
 - [The undead army]
 
