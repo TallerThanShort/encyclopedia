@@ -49,5 +49,19 @@ They were created prior to [The Pact], and are therefore not affected by the [Re
 A Battle Angel is only released upon it's representative CKS's death, or when their representative summons them. To keep them alive while not activated, they were secretly kept incubated in [AD1].
 ### Ibis
 Ibis is CKS1's Battle Angel.
+
+Based on CKS1, Ibis has an unstable attitude, whacks more than just a little punch, and always wears the latest fashion.
+### Kanro
+Kanro is CKS2's Battle Angel.
+
+Kanro is a living armor suit.
 ### Waifu
-Waifu, also known as Virtual Waifu, is CKS3's Battle Angel.
+Waifu, also known as Virtual Waifu, is CKS3's Battle Angel. Known mainly for her iconic sword.
+
+Waifu is only in the Suhч Books and not the films. This is because the films keep a more original ideal where the Battle Angel's are only summoned one their represented Suhч's demise.
+### UB40
+UB40, also known as B40 (bee four-oh), is CKS4's Battle Angel.
+
+Much like CKS4, UB40 has a final move - **chain reaction**. This causes UB40's demise, but is an absolute final trump card. IB40 was created by CKS4 for when his Battle Angel uses this move.
+### IB40
+IB40, also known as SYSbot, isn't anyone's Battle Angel, instead a reverse-engineered version of UB40, but released by accident on SYStemware Update v789-patch67.1-3
