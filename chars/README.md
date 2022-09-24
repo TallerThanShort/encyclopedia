@@ -42,7 +42,7 @@ Also has the active ability to turn into a 2D shadow, appearing invisible even i
 ## The Battle Angel's
 The Battle Angel's were CKS4's pride and joy. His master project.
 
-Designed to replicate near 100% the same abilities as ths fallen Suhч they represent, the Battle Angel's are CKS4's modern adaptation of a Suhч.
+Designed to replicate near 100% the same abilities as ths fallen Suhч they represent, the Battle Angel's are CKS4's modern adaptation of an F-Model Suhч.
 
 They were created prior to [The Pact], and are therefore not affected by the [Rebirth Clause].
 
